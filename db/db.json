@@ -79,39 +79,32 @@
   ],
   "burgers": [
     {
-      "id": "76cc",
-      "nome": "CARLOS EDUARDO DA",
-      "carne": "Alcatra",
+      "id": "042d",
+      "nome": "Cadu",
+      "carne": "Maminha",
       "pao": "3 Queijos",
       "opcionais": [
-        "Salame",
-        "Bacon"
+        "Cheddar",
+        "Tomate"
       ],
       "status": "Solicidado"
     },
     {
-      "id": "912b",
+      "id": "e6f7",
       "nome": "CARLOS EDUARDO DA",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
       "opcionais": [
-        "Pepino"
+        "Bacon",
+        "Tomate"
       ],
       "status": "Solicidado"
     },
     {
-      "id": "397e",
-      "nome": "CARLOS EDUARDO DAdwwdw",
-      "carne": "Picanha",
-      "pao": "Integral",
-      "opcionais": [],
-      "status": "Solicidado"
-    },
-    {
-      "id": "16d8",
+      "id": "314d",
       "nome": "CARLOS EDUARDO DA",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
       "opcionais": [
         "Tomate",
         "Salame"
@@ -119,13 +112,13 @@
       "status": "Solicidado"
     },
     {
-      "id": "cf47",
-      "nome": "efwefwefwef",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
+      "id": "b652",
+      "nome": "sqsqs",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
       "opcionais": [
-        "Salame",
-        "Bacon"
+        "Bacon",
+        "Salame"
       ],
       "status": "Solicidado"
     }
